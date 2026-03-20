@@ -94,6 +94,7 @@ Then open http://localhost:3000 in your browser.
 ## AHK Integration (Windows Only)
 
 This project includes AutoHotkey v2.0 integration for seamless text translation from any Windows application.
+Note that the AutoHotkey script is run once instead running in background.
 
 ### Features
 
